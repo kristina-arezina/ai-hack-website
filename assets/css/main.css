@@ -2715,6 +2715,8 @@ body {
  #main .blog #picturesBlog {
   border-radius: 10%; 
   padding: 0 20px;
+  width:20px;
+  height:20px;
  }     
 
 /* Main */
