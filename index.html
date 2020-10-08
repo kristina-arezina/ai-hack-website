@@ -47,6 +47,7 @@
 				<div class="inner">
 					<header class="special">
 						<h2>Activity Board</h2>
+						<div id="like_button_container"></div>
 						<p>A page when we will list our events for YOUR4YEARS</p>
 					</header>
 					<div class="highlights">
@@ -209,5 +210,12 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
+			 <!-- Load React. -->
+			<!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+			<script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+			<script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+
+			<!-- Load our React component. -->
+			<script src="like_button.js"></script>
 	</body>
 </html>
