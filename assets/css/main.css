@@ -342,7 +342,7 @@ button,
     input[type="button"]:hover:active,
     button:hover:active,
     .button:hover:active {
-      background-color: rgba(206, 27, 40, 0.25); }
+      background-color: rgba(30, 27, 206, 0.25); }
   input[type="submit"].primary,
   input[type="reset"].primary,
   input[type="button"].primary,
@@ -1909,7 +1909,7 @@ ul.icons {
       #banner input[type="button"]:hover:active,
       #banner button:hover:active,
       #banner .button:hover:active {
-        background-color: rgba(206, 27, 40, 0.25); }
+        background-color: rgba(27, 45, 206, 0.25); }
     #banner input[type="submit"].primary,
     #banner input[type="reset"].primary,
     #banner input[type="button"].primary,
@@ -2845,7 +2845,7 @@ body {
       #menu input[type="button"]:hover:active,
       #menu button:hover:active,
       #menu .button:hover:active {
-        background-color: rgba(206, 27, 40, 0.25); }
+        background-color: rgba(1, 23, 121, 0.315); }
     #menu input[type="submit"].primary,
     #menu input[type="reset"].primary,
     #menu input[type="button"].primary,
