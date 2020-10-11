@@ -363,7 +363,7 @@ button,
       input[type="button"].primary:hover:active,
       button.primary:hover:active,
       .button.primary:hover:active {
-        background-color: #f4f4; }
+        background-color: #0077c1; }
 
 /* Form */
 form {
@@ -1916,21 +1916,21 @@ ul.icons {
     #banner button.primary,
     #banner .button.primary {
       box-shadow: none;
-      background-color: #f4f4;
+      background-color: #0077c1;
       color: #f4f4f4 !important; }
       #banner input[type="submit"].primary:hover,
       #banner input[type="reset"].primary:hover,
       #banner input[type="button"].primary:hover,
       #banner button.primary:hover,
       #banner .button.primary:hover {
-        background-color: #f4f4;
+        background-color: #67daff;
         box-shadow: none; }
         #banner input[type="submit"].primary:hover:active,
         #banner input[type="reset"].primary:hover:active,
         #banner input[type="button"].primary:hover:active,
         #banner button.primary:hover:active,
         #banner .button.primary:hover:active {
-          background-color: #f4f4; }
+          background-color: #67daff; }
   #banner label {
     color: #f4f4f4; }
   #banner input[type="text"],
@@ -2309,14 +2309,14 @@ ul.icons {
       #footer input[type="button"].primary:hover,
       #footer button.primary:hover,
       #footer .button.primary:hover {
-        background-color: #f4f4;
+        background-color: #0077c1;
         box-shadow: none; }
         #footer input[type="submit"].primary:hover:active,
         #footer input[type="reset"].primary:hover:active,
         #footer input[type="button"].primary:hover:active,
         #footer button.primary:hover:active,
         #footer .button.primary:hover:active {
-          background-color: #f4f4; }
+          background-color: #42a5f4; }
   #footer label {
     color: #0077c1; }
   #footer input[type="text"],
@@ -2612,14 +2612,14 @@ body {
       #heading input[type="button"].primary:hover,
       #heading button.primary:hover,
       #heading .button.primary:hover {
-        background-color: #f4f4;
+        background-color: #0077c1;
         box-shadow: none; }
         #heading input[type="submit"].primary:hover:active,
         #heading input[type="reset"].primary:hover:active,
         #heading input[type="button"].primary:hover:active,
         #heading button.primary:hover:active,
         #heading .button.primary:hover:active {
-          background-color: #f4f4; }
+          background-color: #0077c1; }
   #heading label {
     color: #f4f4f4; }
   #heading input[type="text"],
@@ -2859,14 +2859,14 @@ body {
       #menu input[type="button"].primary:hover,
       #menu button.primary:hover,
       #menu .button.primary:hover {
-        background-color: #f4f4;
+        background-color: #0077c1;
         box-shadow: none; }
         #menu input[type="submit"].primary:hover:active,
         #menu input[type="reset"].primary:hover:active,
         #menu input[type="button"].primary:hover:active,
         #menu button.primary:hover:active,
         #menu .button.primary:hover:active {
-          background-color: #f4f4; }
+          background-color: #0077c1; }
   #menu > ul {
     margin: 0 0 1rem 0; }
     #menu > ul.links {
